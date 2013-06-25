@@ -1,17 +1,103 @@
-# Object files
-*.o
+Re: Fout in je SEO-plugin sinds laatste updates‏
+Groepeer berichten op discussie om berichten te zien die bij dit bericht horen.
 
-# Libraries
-*.lib
-*.a
+Yoast Support (support@yoast.com) 13:14 
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+Aan: Ben Gidding
 
-# Executables
-*.exe
-*.out
-*.app
+Van: Yoast Support (support@yoast.com)
+Verzonden: dinsdag 25 juni 2013 13:14:51
+Aan: Ben Gidding (succesteksten@outlook.com)
+
+Hallo Ben,
+
+Begrijp me niet verkeerd, want we waarderen je inbreng zeker wel. Ik vraag je inderdaad om een bug report in te dienen bij GitHub, zodat het voor ons overzichtelijk blijft en wij op een logische en gestructureerde manier de klachten en bugs op kunnen lossen. Dus we nemen je meldingen wel degelijk serieus, maar hebben inderdaad niet de tijd, noch de energie, om hier anders op te antwoorden. Het antwoord blijft namelijk hetzelfde: file een bugreport op github. 
+
+Ik hoop van harte dat je toch gewoon onze weg wilt volgen en op die manier ons wilt helpen.
+Alvast bedankt!
+
+Kind regards,
+
+Thijs de Valk
+Consultant at Yoast
+
+From: Ben Gidding <succesteksten@outlook.com>
+Date: June 25, 2013 12:52:54 PM CEST
+To: Yoast Support <support@yoast.com>
+Subject: Re: Re: Fout in je SEO-plugin sinds laatste updates
+
+Hallo Thijs,
+
+Ja, als dit jullie antwoord is op mijn twee met elkaar samenhangende vorige e-mails, duidelijk een standaard antwoord op twee ongelezen berichten, dan houdt het voor mij op. Ik begrijp dat jullie het druk hebben en dat er heel wat e-mails binnenkomen elke dag, maar we hebben het hier wel over twee updates van jullie SEO-plugin die het ding voor een belangrijk percentage onbruikbaar hebben gemaakt en dat komt omdat jullie er dingen aan hebben toegevoegd die met SEO niets te maken hebben, zoals de zgn. aanwezigheid van 'stopwoorden'. Ik zou mijn vorige mails en deze echt serieuzer nemen en er aandacht aan schenken. Voor mij als tekstbureau is tijd ook geld en toch neem ik de moeite JULLIE te helpen met een product van JULLIE.
+
+Met vriendelijke groet,
+
+Ben Gidding
+http://www.succesteksten.nl/
+From: Yoast Support <support@yoast.com>
+Date: June 25, 2013 11:39:01 AM CEST
+
+To: Ben Gidding <succesteksten@outlook.com>
+Subject: Re: Fout in je SEO-plugin sinds laatste updates 
+
+Hallo Ben,
+
+Je kunt een bug report voor onze WordPress SEO plugin indienen bij onze GitHub repository: https://github.com/jdevalk/wordpress-seo
+Voor vragen over de WordPress SEO plugin van Yoast wil ik je graag verwijzen naar het support forum: http://wordpress.org/support/plugin/wordpress-seo
+
+Kind regards,
+
+Thijs de Valk
+Consultant at Yoast
+
+From: Ben Gidding <succesteksten@outlook.com>
+Date: June 24, 2013 1:57:55 PM CEST
+To: Yoast Support <support@yoast.com>
+Subject: Re: Re: Fout in je SEO-plugin sinds laatste updates 
+
+Beste Joost,
+
+Er waren de laatste tijd twee updates van je SEO-plugin. Helaas acht ik ze tenminste op één punt geen verbetering, integendeel, en ik vraag mij af of je het volgende eens onder de loep wilt nemen.
+
+'De zoekterm voor deze pagina bevat een of meer stop-woorden, overweeg deze te verwijderen. Gevonden 'de'.' Met een oranje bolletje ervoor.
+
+Bij de "oude" versie van je SEO-plugin was dit niet het geval en kreeg je gewoon een groen bolletje, wat het ook hoort te zijn naar mijn mening als expert op het gebied van onze taal (tekstbureau). Want je hebt nu eenmaal zoekwoorden met woordjes erin die jij 'stopwoorden' noemt, omdat ze vaak voorkomen, wat normaal is: het is immers een zoekstring! Geen 'stopwoorden' dus. Als ik dit moet gaan veranderen in mijn content, dan krijg ik - willen de oranje bolletjes verdwijnen - overal verminkingen in zinnen en dat kan toch niet de bedoeling zijn!
+
+Ik acht het aangewezen dit probleem ongedaan te maken in je verder prima SEO-plugin. Temeer omdat ik mij niet voor kan stellen dat Google hierin met je meegaat!
+
+Hartelijk dank en met vriendelijke groet,
+
+Ben Gidding
+http://www.succesteksten.nl/
+
+
+2de bijbehorende e-mail
+
+'De zoekterm ... komt' WEL 'voor in de paginatitel.'‏
+Ben Gidding 24-6-2013 
+
+Aan: support@yoast.com
+
+Van: Ben Gidding (succesteksten@outlook.com)
+Verzonden: maandag 24 juni 2013 14:22:06
+Aan: support@yoast.com (support@yoast.com)
+
+Hallo Joost,
+
+Ik vond nog een ander probleem dat geen probleem kan zijn:
+
+'De zoekterm langs de grachtengordel komt niet voor in de paginatitel.' Met een rood bolletje.
+
+Dit is echter wel degelijk het geval! Op mijn website is 'langs de grachtengordel' een zoekterm. Hoewel dit in de permalink staat en als eerste kop van de pagina valt dat rode bolletje en die melding totaal niet te begrijpen!
+
+Ik probeerde nog uit deze zoekstring in de kop 'Een boekje open over... enz.' te zetten, maar dat maakt geen enkel verschil. Dit was tot nu toe ook nooit nodig.
+
+Het eigenaardige is dat ik alle voorafgaande webpagina's aanpaste zonder dit probleem tegen te komen. Ik moet er nog een paar (van mijn blogs) en ik vrees het ergste op deze manier.
+
+Ik hoop echt dat je hier iets aan wilt doen. Dit kan niet goed zijn.
+
+Met vriendelijke groet,
+
+Ben Gidding
+http://www.succesteksten.nl/
+
